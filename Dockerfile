@@ -19,3 +19,4 @@ RUN apt-get -qq install -y automake
 RUN apt-get -qq install -y autotools-dev
 RUN apt-get -qq install -y autopoint
 RUN apt-get -qq install -y libtool
+RUN apt-get -qq install -y aria2
